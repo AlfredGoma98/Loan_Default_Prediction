@@ -157,11 +157,11 @@ Possible improvements (not implemented yet):
 
 ---
 
-## 👤 Author
+## 👤 Authors
 
-**Alfred Goma**  
+**Alfred Goma** & **Banji Masinja**  
 Loan Default Prediction Project  
-2024–2025  
+2026
 
 ---
 
